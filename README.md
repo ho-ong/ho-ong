@@ -1,3 +1,9 @@
+<!--
+<a href="https://hits.seeyoufarm.com">
+ <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fho-ong%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+</a>
+-->
+
 # 😁 Welcome! My Study Room!
 
 <br>
@@ -6,7 +12,7 @@
 안녕하세요. 웹 풀스택 개발자를 목표로 노력하고 있는 홍현정입니다.<br>
 개발과 디자인에 관심이 많아 꾸준히 지식을 쌓고 있습니다.<br>
 사용자의 보안성, 편의성, 심미성을 고려한 웹 개발을 하고자 합니다.<br>
-협업을 즐기며 피드백은 언제나 환영합니다.<br><br>
+협업을 즐기며 피드백은 언제나 환영합니다.<br>
 💌 Contact : honghj8959@gmail.com
 
 <br>
