@@ -54,7 +54,7 @@
  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
  <!-- SQL -->
  <h5>SQL</h5>
- <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=Oracle&logoColor=white" />
+ <img src="https://img.shields.io/badge/OracleSQL-F80000?style=flat&logo=Oracle&logoColor=white" />
  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 </div>
 
