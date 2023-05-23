@@ -25,8 +25,8 @@
 |---|---|---|---|---|
 | MO-VITATION | 해외 모바일 초대장 커스텀 링크 웹 | 4 | 2023 | (진행중) |
 | VCom | 동영상 공유 커뮤니티 웹 | 1 | 2023 | (진행중) |
-| Tripplanner | 국내외 여행 일정 공유 웹 | 5 | 2023 | (진행중) |
-| TeenCoder | 청소년 개발자를 위한 IT 커뮤니티 웹 | 5 | 2022 | (진행중) |
+| Triplaner | 국내외 여행 일정 공유 웹 | 5 | 2023 | (진행중) |
+| TeenCoder | 청소년 개발자를 위한 IT 커뮤니티 웹 | 5 | 2022 | [TeenCoder](https://github.com/ho-ong/teencoder-project) |
 
 <br>
 
