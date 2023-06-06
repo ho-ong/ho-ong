@@ -24,6 +24,7 @@
 | 프로젝트 | 내용 | 인원 | 날짜 | 링크 |
 |---|---|---|---|---|
 | MO-VITATION | 해외 모바일 초대장 커스텀 링크 웹 | 4 | 2023 | (진행중) |
+| VCom | 동영상 공유 커뮤니티 웹 | 1 | 2023 | (진행중) |
 | Triplaner | 국내외 여행 일정 및 장소 관리 웹 | 5 | 2023 | [Triplaner](https://github.com/ho-ong/triplaner-project) |
 | TeenCoder | 청소년 개발자를 위한 IT 커뮤니티 웹 | 6 | 2022 | [TeenCoder](https://github.com/ho-ong/teencoder-project) |
 
