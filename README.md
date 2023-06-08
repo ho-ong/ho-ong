@@ -52,6 +52,7 @@
  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white" />
  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" />
  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
+ <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white" />
  <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" />
  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=ApacheMaven&logoColor=white" />
  <img src="https://img.shields.io/badge/MyBatis-000000?style=flat&logo=Fluentd&logoColor=white" />
