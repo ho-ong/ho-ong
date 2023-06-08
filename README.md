@@ -41,20 +41,29 @@
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" />
+ <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=Svelte&logoColor=white" />
+ <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white" />
+ <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=React&logoColor=white" />
+ <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white" />
  <!-- Backend -->
  <h5>Backend</h5>
  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=coffeescript&logoColor=white" />
  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white" />
+ <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" />
+ <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
  <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" />
  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=ApacheMaven&logoColor=white" />
- <img src="https://img.shields.io/badge/Mybatis-000000?style=flat&logo=Fluentd&logoColor=white" />
+ <img src="https://img.shields.io/badge/MyBatis-000000?style=flat&logo=Fluentd&logoColor=white" />
  <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white" />
  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
- <!-- SQL -->
- <h5>SQL</h5>
+ <!-- DB -->
+ <h5>DB</h5>
  <img src="https://img.shields.io/badge/OracleSQL-F80000?style=flat&logo=Oracle&logoColor=white" />
  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
+ <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white" />
+ <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white" />
+ <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white" />
 </div>
 
 <br>
@@ -67,12 +76,19 @@
  <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
  <img src="https://img.shields.io/badge/IntelliJ%20IDE-000000?style=flat&logo=IntelliJIDEA&logoColor=white" />
  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white" />
+ <img src="https://img.shields.io/badge/FileZilla-BF0000?style=flat&logo=FileZilla&logoColor=white" />
  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+ <img src="https://img.shields.io/badge/CodePen-000000?style=flat&logo=CodePen&logoColor=white" />
  <!-- Design Tools -->
  <h5>Design Tools</h5>
  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white" />
  <img src="https://img.shields.io/badge/AdobeXD-FF61F6?style=flat&logo=AdobeXD&logoColor=white" />
+ <img src="https://img.shields.io/badge/Sketch-F7B500?style=flat&logo=Sketch&logoColor=white" />
  <img src="https://img.shields.io/badge/AdobeIllustrator-FF9A00?style=flat&logo=AdobeIllustrator&logoColor=white" />
  <img src="https://img.shields.io/badge/AdobeInDesign-FF3366?style=flat&logo=AdobeInDesign&logoColor=white" />
+ <img src="https://img.shields.io/badge/AdobeLightroom-31A8FF?style=flat&logo=AdobeLightroom&logoColor=white" />
  <img src="https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=flat&logo=AdobePhotoshop&logoColor=white" />
+ <img src="https://img.shields.io/badge/AdobeDreamweaver-FF61F6?style=flat&logo=AdobeDreamweaver&logoColor=white" />
+ <img src="https://img.shields.io/badge/AdobePremiere-9999FF?style=flat&logo=AdobePremierePro&logoColor=white" />
+ <img src="https://img.shields.io/badge/AdobeAfterEffects-9999FF?style=flat&logo=AdobeAfterEffects&logoColor=white" />
 </div>
