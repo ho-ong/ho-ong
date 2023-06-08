@@ -24,6 +24,7 @@
 | 프로젝트 | 내용 | 인원 | 날짜 | 링크 |
 |---|---|---|---|---|
 | MO-VITATION | 해외 모바일 초대장 커스텀 링크 웹 | 4 | 2023 | (진행중) |
+<!-- | M&V | 영화 & 동영상 공유 커뮤니티 웹 | 1 | 2023 | (진행중) | -->
 | Triplaner | 국내외 여행 일정 및 장소 관리 웹 | 5 | 2023 | [Triplaner](https://github.com/ho-ong/triplaner-project) |
 | TeenCoder | 청소년 개발자를 위한 IT 커뮤니티 웹 | 6 | 2022 | [TeenCoder](https://github.com/ho-ong/teencoder-project) |
 
@@ -35,8 +36,8 @@
 <div style="display: inline-block">
  <!-- Frontend -->
  <h5>Frontend</h5>
- <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
- <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+ <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white" />
+ <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white" />
  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white" />
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
@@ -52,7 +53,7 @@
  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white" />
  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" />
  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
- <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white" />
+ <!-- <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white" /> -->
  <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" />
  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=ApacheMaven&logoColor=white" />
  <img src="https://img.shields.io/badge/MyBatis-000000?style=flat&logo=Fluentd&logoColor=white" />
@@ -90,6 +91,6 @@
  <img src="https://img.shields.io/badge/AdobeLightroom-31A8FF?style=flat&logo=AdobeLightroom&logoColor=white" />
  <img src="https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=flat&logo=AdobePhotoshop&logoColor=white" />
  <img src="https://img.shields.io/badge/AdobeDreamweaver-FF61F6?style=flat&logo=AdobeDreamweaver&logoColor=white" />
- <img src="https://img.shields.io/badge/AdobePremiere-9999FF?style=flat&logo=AdobePremierePro&logoColor=white" />
- <img src="https://img.shields.io/badge/AdobeAfterEffects-9999FF?style=flat&logo=AdobeAfterEffects&logoColor=white" />
+ <!-- <img src="https://img.shields.io/badge/AdobePremiere-9999FF?style=flat&logo=AdobePremierePro&logoColor=white" /> -->
+ <!-- <img src="https://img.shields.io/badge/AdobeAfterEffects-9999FF?style=flat&logo=AdobeAfterEffects&logoColor=white" /> -->
 </div>
