@@ -95,8 +95,8 @@
  <img src="https://img.shields.io/badge/AdobeLightroom-31A8FF?style=flat&logo=AdobeLightroom&logoColor=white" />
  <img src="https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=flat&logo=AdobePhotoshop&logoColor=white" />
  <img src="https://img.shields.io/badge/AdobeDreamweaver-FF61F6?style=flat&logo=AdobeDreamweaver&logoColor=white" />
- <!-- <img src="https://img.shields.io/badge/AdobePremiere-9999FF?style=flat&logo=AdobePremierePro&logoColor=white" /> -->
- <!-- <img src="https://img.shields.io/badge/AdobeAfterEffects-9999FF?style=flat&logo=AdobeAfterEffects&logoColor=white" /> -->
- <!-- <img src="https://img.shields.io/badge/Cinema4D-011A6A?style=flat&logo=Cinema4D&logoColor=white" /> -->
- <!-- <img src="https://img.shields.io/badge/Blender-F5792A?style=flat&logo=Blender&logoColor=white" /> -->
+ <img src="https://img.shields.io/badge/AdobePremiere-9999FF?style=flat&logo=AdobePremierePro&logoColor=white" />
+ <img src="https://img.shields.io/badge/AdobeAfterEffects-9999FF?style=flat&logo=AdobeAfterEffects&logoColor=white" />
+ <img src="https://img.shields.io/badge/Cinema4D-011A6A?style=flat&logo=Cinema4D&logoColor=white" />
+ <img src="https://img.shields.io/badge/Blender-F5792A?style=flat&logo=Blender&logoColor=white" />
 </div>
