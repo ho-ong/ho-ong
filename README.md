@@ -52,14 +52,15 @@
  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white" />
  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" />
  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
- <!-- <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white" /> -->
+ <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white" />
+ <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white" />
  <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" />
  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=ApacheMaven&logoColor=white" />
  <img src="https://img.shields.io/badge/MyBatis-000000?style=flat&logo=Fluentd&logoColor=white" />
  <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white" />
  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
- <!-- DB -->
- <h5>DB</h5>
+ <!-- DB & SQL -->
+ <h5>DB & SQL</h5>
  <img src="https://img.shields.io/badge/OracleSQL-F80000?style=flat&logo=Oracle&logoColor=white" />
  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white" />
@@ -73,9 +74,12 @@
 <div style="display: inline-block">
  <!-- Development Tools -->
  <h5>Development Tools</h5>
- <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
- <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
  <img src="https://img.shields.io/badge/IntelliJ%20IDE-000000?style=flat&logo=IntelliJIDEA&logoColor=white" />
+ <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=PyCharm&logoColor=white" />
+ <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
+ <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
+ <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=RStudio&logoColor=white" />
+ <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=Anaconda&logoColor=white" />
  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white" />
  <img src="https://img.shields.io/badge/FileZilla-BF0000?style=flat&logo=FileZilla&logoColor=white" />
  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
@@ -83,6 +87,7 @@
  <!-- Design Tools -->
  <h5>Design Tools</h5>
  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white" />
+ <img src="https://img.shields.io/badge/InVision-FF3366?style=flat&logo=InVision&logoColor=white" />
  <img src="https://img.shields.io/badge/AdobeXD-FF61F6?style=flat&logo=AdobeXD&logoColor=white" />
  <img src="https://img.shields.io/badge/Sketch-F7B500?style=flat&logo=Sketch&logoColor=white" />
  <img src="https://img.shields.io/badge/AdobeIllustrator-FF9A00?style=flat&logo=AdobeIllustrator&logoColor=white" />
@@ -92,4 +97,6 @@
  <img src="https://img.shields.io/badge/AdobeDreamweaver-FF61F6?style=flat&logo=AdobeDreamweaver&logoColor=white" />
  <!-- <img src="https://img.shields.io/badge/AdobePremiere-9999FF?style=flat&logo=AdobePremierePro&logoColor=white" /> -->
  <!-- <img src="https://img.shields.io/badge/AdobeAfterEffects-9999FF?style=flat&logo=AdobeAfterEffects&logoColor=white" /> -->
+ <!-- <img src="https://img.shields.io/badge/Cinema4D-011A6A?style=flat&logo=Cinema4D&logoColor=white" /> -->
+ <!-- <img src="https://img.shields.io/badge/Blender-F5792A?style=flat&logo=Blender&logoColor=white" /> -->
 </div>
