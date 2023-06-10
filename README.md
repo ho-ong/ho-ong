@@ -55,8 +55,8 @@
  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white" />
  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white" />
  <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" />
- <img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=ApacheMaven&logoColor=white" />
  <img src="https://img.shields.io/badge/MyBatis-000000?style=flat&logo=Fluentd&logoColor=white" />
+ <img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=ApacheMaven&logoColor=white" />
  <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white" />
  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
  <!-- DB & SQL -->
