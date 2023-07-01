@@ -70,7 +70,7 @@
 <div style="display: inline-block">
  <!-- Development Tools -->
  <h5>Development Tools</h5>
- <img src="https://img.shields.io/badge/IntelliJ%20IDE-000000?style=flat&logo=IntelliJIDEA&logoColor=white" />
+ <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=IntelliJIDEA&logoColor=white" />
  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=PyCharm&logoColor=white" />
  <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
