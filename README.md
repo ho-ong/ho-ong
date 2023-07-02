@@ -79,20 +79,15 @@
  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white" />
  <img src="https://img.shields.io/badge/FileZilla-BF0000?style=flat&logo=FileZilla&logoColor=white" />
  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
- <!-- <img src="https://img.shields.io/badge/CodePen-000000?style=flat&logo=CodePen&logoColor=white" /> -->
  <!-- Design Tools -->
  <h5>Design Tools</h5>
  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white" />
  <img src="https://img.shields.io/badge/InVision-FF3366?style=flat&logo=InVision&logoColor=white" />
  <img src="https://img.shields.io/badge/Sketch-F7B500?style=flat&logo=Sketch&logoColor=white" />
- <img src="https://img.shields.io/badge/AdobeXD-FF61F6?style=flat&logo=AdobeXD&logoColor=white" />
- <img src="https://img.shields.io/badge/AdobeDreamweaver-FF61F6?style=flat&logo=AdobeDreamweaver&logoColor=white" />
- <img src="https://img.shields.io/badge/AdobeIllustrator-FF9A00?style=flat&logo=AdobeIllustrator&logoColor=white" />
- <img src="https://img.shields.io/badge/AdobeInDesign-FF3366?style=flat&logo=AdobeInDesign&logoColor=white" />
- <img src="https://img.shields.io/badge/AdobeLightroom-31A8FF?style=flat&logo=AdobeLightroom&logoColor=white" />
- <img src="https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=flat&logo=AdobePhotoshop&logoColor=white" />
- <!-- <img src="https://img.shields.io/badge/AdobePremiere-9999FF?style=flat&logo=AdobePremierePro&logoColor=white" /> -->
- <!-- <img src="https://img.shields.io/badge/AdobeAfterEffects-9999FF?style=flat&logo=AdobeAfterEffects&logoColor=white" /> -->
- <!-- <img src="https://img.shields.io/badge/Cinema4D-011A6A?style=flat&logo=Cinema4D&logoColor=white" /> -->
- <!-- <img src="https://img.shields.io/badge/Blender-F5792A?style=flat&logo=Blender&logoColor=white" /> -->
+ <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat&logo=AdobeXD&logoColor=white" />
+ <img src="https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6?style=flat&logo=AdobeDreamweaver&logoColor=white" />
+ <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=AdobeIllustrator&logoColor=white" />
+ <img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=flat&logo=AdobeInDesign&logoColor=white" />
+ <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat&logo=AdobeLightroom&logoColor=white" />
+ <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=AdobePhotoshop&logoColor=white" />
 </div>
