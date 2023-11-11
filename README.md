@@ -11,7 +11,7 @@
 
 <br>
 
-<img style="width: 400px" src="https://github-readme-stats.vercel.app/api?username=ho-ong&show_icons=true&theme=radical)](https://github.com/ho-ong/github-readme-stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=ho-ong&show_icons=true&theme=radical)](https://github.com/ho-ong/github-readme-stats" style="width: 400" />
 
 <br>
 
